@@ -1,3 +1,3 @@
 function returnFirstTwoDrivers() {
-  const myfunc = f([ 'Sally', 'Bob' ]) {}
+  const = function (['Sally', 'Bob', 'Freddy', 'Claudia']) {}
 }
